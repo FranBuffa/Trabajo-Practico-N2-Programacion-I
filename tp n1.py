@@ -3,7 +3,7 @@ importePromedio = 0
 importeDeLaVentaMasAlta = 0
 cantidadTotalDeVentas = 0 
 totalRecaudado = 0
-
+sexoooo
 cantidadTotalDeVentasEfectivo = 0
 cantidadTotalDeVentasDebito = 0
 cantidadTotalDeVentasCredito = 0
